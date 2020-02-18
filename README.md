@@ -14,23 +14,19 @@
     * "Open data is data that can be freely used, re-used and redistributed by anyone - subject only, at most, to the requirement to attribute and sharealike."
 * [The World Bank: Open Data Essentials](http://opendatatoolkit.worldbank.org/en/essentials.html)
     * "Data or content is open if anyone is free to use, re-use or redistribute it, subject at most to measures that preserve provenance and openness."
-    * 2 dimensions: "The data must be legally open, which means they must be placed in the public domain or under liberal terms of use with minimal restrictions."; "The data must be technically open, which means they must be published in electronic formats that are machine readable and non-proprietary".
-
-
-## Opportunities
-
-* [Open Data Institute: Open standards and open APIs](https://theodi.org/topic/open-standards-and-open-apis/)
-    * "When open data is standardised and uses an open API, it's easier to read and access, creating opportunities for startups, researchers and communities to innovate with it."
+    * Two dimensions: 
+      * "The data must be legally open, which means they must be placed in the public domain or under liberal terms of use with minimal restrictions"
+      * "The data must be technically open, which means they must be published in electronic formats that are machine readable and non-proprietary"
 
 
 ## Case studies and reviews of installations
 
 * [Open Data activity of selected UK councils](http://www.nomoregrapes.com/wp-content/uploads/2016/03/nmg-council-opendata-research-20160304.pdf)
     * "Backing of policy and commitment needs to be done first with open data releases. Events which encourage discussion and use of the data should be followed by promotion of any work done. This chain of actions then starts a circle of specific open data requests, releases, and use. Into a moving circle will come data programmers, and analysts, other professionals, and citizens that connect with the council and the professionals. Naturally, an authority's open data work will become celebrated further a eld by both internal sta  and external individuals/businesses involved."
-    * [Ontology Engineering at Scale for Open City Data Sharing](https://www.slideshare.net/ocorcho/ontology-engineering-at-scale-for-open-city-data-sharing)
-        * ( "Poster boards" ...early 'open data'! )
-        * Believes that the definition and maintenance of ontologies is the crux.
-        * "Choose your datasets" sparingly; "annotate semantically so other can understand"; "produce your data in different formats"; "eat your own dog food"; 
+* [Ontology Engineering at Scale for Open City Data Sharing](https://www.slideshare.net/ocorcho/ontology-engineering-at-scale-for-open-city-data-sharing)
+    * "Poster boards" were early 'open data'!
+    * Believes that the definition and maintenance of ontologies is the crux.
+    * "Choose your datasets" sparingly; "annotate semantically so other can understand"; "produce your data in different formats"; "eat your own dog food"; 
 * [Wikipedia: Waste in the UK](https://en.wikipedia.org/wiki/Waste_in_the_United_Kingdom)
      * "In Scotland in 1993, 14 million tons of waste was produced. 100,000 tons was toxic waste and 260,000 tons was controlled waste from other parts of Britain and abroad. 45% of the special waste was in liquid form and 18% was asbestos - radioactive waste was not included. Of the controlled waste, 48% came from the demolition of buildings, 22% from industry, 17% from households and 13% from business - only 3% were recycled. Ninety percent of controlled waste was buried in landfill sites and produced 2 million tons of methane gas. 1.5% was burned in incinerators and 1.5% were exported to be disposed of or recycled. There are 900 disposal sites in Scotland."
 
@@ -63,14 +59,17 @@
    * [CKAN](https://ckan.org/about/)
       * "a tool for making open data websites. [...] helps you manage and publish collections of data"
       * [Extensions](https://github.com/ckan/ckan/wiki/List-of-extensions)
-      * [jackan](http://opendatatrentino.github.io/jackan/)
-      * [ckan4j](https://extensions.ckan.org/extension/ckan4j/)
+        * [harvest](https://github.com/ckan/ckanext-harvest/)
+        * [DCAT](https://github.com/ckan/ckanext-dcat)
+        * [jackan](http://opendatatrentino.github.io/jackan/)
+        * [ckan4j](https://extensions.ckan.org/extension/ckan4j/)
    * [Prototype tools/models for digitally tracking waste](https://defradigital.blog.gov.uk/2019/05/13/smart-waste-tracking-challenge-are-we-any-closer-to-solutions/)
    * [Socrata](https://www.tylertech.com/products/socrata)
       * "Data-Driven Innovation for Government [...] puts data at the heart of every government program and revolutionizes internal data sharing"
       * "Break down silos and encourage collaboration"
       * "Transform data into insights with visualizations and performance measurements"
-
+* [Open Ownership: Identity & identifiers: what we?ve learned](https://www.openownership.org/news/identity-and-identifiers-what-weve-learned/)
+   * "the beneficial ownership standard needs to be able to identify legal entities and help users to identify natural persons"
 
 
 # Waste Data
@@ -80,10 +79,16 @@
       * Recording handovers; digital tags to help automate data input; classification and quantification.
    * Publishing council waste collection information?
       * ...in a more usable way; better route info; better waste classification info.
-      * [Presentation about Vastum](https://defradigital.blog.gov.uk/2019/05/13/smart-waste-tracking-challenge-are-we-any-closer-to-solutions/)
-         * "at the moment we have only regulatory datasets that can't be matched to each other"
-         * no oversight of transfer notes so wste goes 'missing'
-         
+* [Presentation about Vastum](https://defradigital.blog.gov.uk/2019/05/13/smart-waste-tracking-challenge-are-we-any-closer-to-solutions/)
+   * "at the moment we have only regulatory datasets that can't be matched to each other"
+   * no oversight of transfer notes so wste goes 'missing'
+* [The story of waste management in the UK](https://www.youtube.com/watch?v=-C6v_X_FtWI)
+   * Be in a better place for another _sea change_ in waste management a la the one brought about by the 1950s Clean Air Act which resulted in a change of the composition of the household bin ...half the weight but bulkier trash because of 1950s end-of-austerity and the rise of the self-service shop in which goods where packaged.
+
+## Opportunities
+
+* [Open Data Institute: Open standards and open APIs](https://theodi.org/topic/open-standards-and-open-apis/)
+    * "When open data is standardised and uses an open API, it's easier to read and access, creating opportunities for startups, researchers and communities to innovate with it."
 
 
 ## Requirements

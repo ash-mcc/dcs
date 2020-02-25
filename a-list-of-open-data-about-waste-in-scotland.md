@@ -45,7 +45,7 @@ Western Isles Council|||No Waste data.
 
 Organisation|URL|Platform|Notes
 ---|---|---|---
-SEPA|[portal](https://www.sepa.org.uk/environment/waste/)||Lots of datasets: mostly summarised data and not so machine readable.
+SEPA|[portal](https://www.sepa.org.uk/environment/waste/)||Lots of datasets: Lots of aggregated data; some not so machine readable.
 
 
 

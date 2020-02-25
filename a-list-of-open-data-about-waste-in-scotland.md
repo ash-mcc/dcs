@@ -20,13 +20,13 @@ Stirling Council|[URL](https://data.stirling.gov.uk/dataset)|CKAN|1 dataset: Was
 Aberdeenshire Council|[URL](https://www.aberdeenshire.gov.uk/online/open-data/)||2 datasets: Glass and textiles recycling points (1 resource); Recycling centres (1 resource)
 East Ayrshire Council|[URL](https://www.east-ayrshire.gov.uk/CouncilAndGovernment/About-the-Council/Information-and-statistics/Open-Data.aspx)||No Waste data.
 East Renfrewshire Council|[URL](https://data.gov.uk/publisher/east-renfrewshire-council)|CKAN|1 dataset: Bin collection days (4 resources).
-Moray Council|[URL](http://www.moray.gov.uk/moray_standard/page_110140.html)||
-North Lanarkshire Council|[URL](https://data.gov.uk/search?q=%22North+Lanarkshire%22) ||
-Shetland Islands Council|[URL](https://www.shetland.gov.uk/information-rights/OpenData.asp)||
-South Ayrshire Council|[URL](https://www.south-ayrshire.gov.uk/opendata/)||
+Moray Council|[URL](http://www.moray.gov.uk/moray_standard/page_110140.html)||2 datasets: Recycling Centres (1 resource); Recycling Points (1 resource).
+North Lanarkshire Council|[URL](https://data.gov.uk/search?q=%22North+Lanarkshire%22)|data.gov.uk|No Waste data.
+Shetland Islands Council|[URL](https://www.shetland.gov.uk/information-rights/OpenData.asp)||No Waste data.
+South Ayrshire Council|[URL](https://www.south-ayrshire.gov.uk/opendata/)||No Waste data.
 |||
-Argyll and Bute Council|[URL](https://data-argyll-bute.opendata.arcgis.com/) |GIS|
-North Ayrshire Council|[URL](https://maps-north-ayrshire.opendata.arcgis.com)|GIS|
+Argyll and Bute Council|[URL](https://data-argyll-bute.opendata.arcgis.com/) |GIS|No Waste data.
+North Ayrshire Council|[URL](https://maps-north-ayrshire.opendata.arcgis.com)|GIS|4 datasets: Litter Bins (1 resource); Recycling Centres (1 resource); Recycling Points (1 resource); Dog Bins (1 resource).
 Renfrewshire Council|[URL](http://data-ren.opendata.arcgis.com/search)|GIS|
 |||
 East Dunbartonshire Council|||No Waste data.

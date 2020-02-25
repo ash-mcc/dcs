@@ -13,13 +13,13 @@ Clackmannanshire Council| [URL](http://gis.clacksweb.org.uk)|CKAN|No Waste data.
 Dumfries and Galloway|[URL](https://usmart.io/#/org/dumgal/)|USMART|1 dataset: Recycling Centres (no permanent URL).
 Dundee City Council|[URL](https://data.dundeecity.gov.uk/dataset)|CKAN|6-ish data sets: Waste and Recycling (just points to the SEPA service); Dog Bins (1 resource); Bin Sensor Returns (5 resources); Solar Powered Compactor Bins (36 resources); Recycling Point Locations (5 resources); Public Litter Bins (1 resource).
 Edinburgh City Council| [URL](https://edinburghopendata.info)|CKAN|7-ish datasets: Communal Waste Collection assets February 2017 (1 resource); Recycling guide for grey and green wheelie bins (1 resource); Communal Recycling Guide (1 resource); Fixed Penalty Notices (1 resource); Litter Bin Sensor project (3 resources); Litter Bins (17 resources); Recycling Points (1 resource).
-Glasgow City Council| [URL](https://data.glasgow.gov.uk)||
-Perth and Kinross Council|[URL](https://data.pkc.gov.uk/dataset) ||
+Glasgow City Council| [URL](https://data.glasgow.gov.uk)|CKAN|1 dataset: Household Waste (2 resources).
+Perth and Kinross Council|[URL](https://data.pkc.gov.uk/dataset) |CKAN|No Waste data.
 Stirling Council|[URL](https://data.stirling.gov.uk/dataset)|CKAN|1 dataset: Waste Management (3 resources).
 |||
-Aberdeenshire Council|[URL](https://www.aberdeenshire.gov.uk/online/open-data/)||
-East Ayrshire Council|[URL](https://www.east-ayrshire.gov.uk/CouncilAndGovernment/About-the-Council/Information-and-statistics/Open-Data.aspx)||
-East Renfrewshire Council|[URL](https://data.gov.uk/publisher/east-renfrewshire-council)||
+Aberdeenshire Council|[URL](https://www.aberdeenshire.gov.uk/online/open-data/)||2 datasets: Glass and textiles recycling points (1 resource); Recycling centres (1 resource)
+East Ayrshire Council|[URL](https://www.east-ayrshire.gov.uk/CouncilAndGovernment/About-the-Council/Information-and-statistics/Open-Data.aspx)||No Waste data.
+East Renfrewshire Council|[URL](https://data.gov.uk/publisher/east-renfrewshire-council)|CKAN|1 dataset: Bin collection days (4 resources).
 Moray Council|[URL](http://www.moray.gov.uk/moray_standard/page_110140.html)||
 North Lanarkshire Council|[URL](https://data.gov.uk/search?q=%22North+Lanarkshire%22) ||
 Shetland Islands Council|[URL](https://www.shetland.gov.uk/information-rights/OpenData.asp)||

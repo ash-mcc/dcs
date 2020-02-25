@@ -12,13 +12,13 @@ Aberdeen City Council|[portal](http://data.aberdeencity.gov.uk)|CKAN|No Waste da
 Aberdeenshire Council|[portal](https://www.aberdeenshire.gov.uk/online/open-data/)||2 datasets: Glass and textiles recycling points (1 resource); [Recycling centres](https://www.aberdeenshire.gov.uk/online/open-data/) (1 resource)
 Angus Council|[portal](http://opendata.angus.gov.uk)|CKAN|No Waste data.
 Argyll and Bute Council|[portal](https://data-argyll-bute.opendata.arcgis.com/) |GIS|No Waste data.
-Clackmannanshire Council| [UportalRL](http://gis.clacksweb.org.uk)|CKAN|No Waste data.
+Clackmannanshire Council| [portal](http://gis.clacksweb.org.uk)|CKAN|No Waste data.
 Dumfries and Galloway|[portal](https://usmart.io/#/org/dumgal/)|USMART|1 dataset: [Recycling Centres](https://usmart.io/#/org/dumgal/discovery/discovery-view-detail/a423ccc2-51e4-4a86-af72-649e3ef991c1) (no permanent URL).
 Dundee City Council|[portal](https://data.dundeecity.gov.uk/dataset)|CKAN|6-ish data sets: Waste and Recycling (just points to the SEPA service); Dog Bins (1 resource); [Bin Sensor Returns](https://data.dundeecity.gov.uk/dataset/bin-sensor-returns) (5 resources); Solar Powered Compactor Bins (36 resources); [Recycling Point Locations](https://data.dundeecity.gov.uk/dataset/recycling-facility-locations) (5 resources); Public Litter Bins (1 resource).
 East Ayrshire Council|[portal](https://www.east-ayrshire.gov.uk/CouncilAndGovernment/About-the-Council/Information-and-statistics/Open-Data.aspx)||No Waste data.
 East Dunbartonshire Council|||No Waste data.
 East Lothian Council|||No Waste data.
-East Renfrewshire Council|[UportalRL](https://data.gov.uk/publisher/east-renfrewshire-council)|CKAN|1 dataset: [Bin collection days](https://ckan.publishing.service.gov.uk/dataset/bin-collection-days) (4 resources).
+East Renfrewshire Council|[portal](https://data.gov.uk/publisher/east-renfrewshire-council)|CKAN|1 dataset: [Bin collection days](https://ckan.publishing.service.gov.uk/dataset/bin-collection-days) (4 resources).
 Edinburgh City Council| [portal](https://edinburghopendata.info)|CKAN|7-ish datasets: Communal Waste Collection assets February 2017 (1 resource); Recycling guide for grey and green wheelie bins (1 resource); Communal Recycling Guide (1 resource); Fixed Penalty Notices (1 resource); Litter Bin Sensor project (3 resources); Litter Bins (17 resources); [Recycling Points](https://data.edinburghopendata.info/dataset/recycling-points) (1 resource).
 Falkirk Council|||No Waste data.
 Fife Council|||No Waste data.

@@ -5,7 +5,7 @@ Compiled February 2020. Derived from Ian Watt's [Scottish Open Data List](https:
 
 ## 32 Local Authorities
 
-Council|URL|Platform|Notes
+Organisation|URL|Platform|Notes
 ---|---|---|---
 Aberdeen City Council|[URL](http://data.aberdeencity.gov.uk)|CKAN|No Waste data.
 Aberdeenshire Council|[URL](https://www.aberdeenshire.gov.uk/online/open-data/)||2 datasets: Glass and textiles recycling points (1 resource); Recycling centres (1 resource)
@@ -40,6 +40,11 @@ West Dunbartonshire Council|||No Waste data.
 West Lothian Council|||No Waste data.
 Western Isles Council|||No Waste data.
 
+## 1 Other
+
+Organisation|URL|Platform|Notes
+---|---|---|---
+SEPA|[URL](https://www.sepa.org.uk/environment/waste/)||Lots of datasets: mainly summaries and not so machine readable.
 
 
 

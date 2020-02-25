@@ -16,7 +16,7 @@ Edinburgh City Council| [URL](https://edinburghopendata.info)||
 Glasgow City Council| [URL](https://data.glasgow.gov.uk)||
 Perth and Kinross Council|[URL](https://data.pkc.gov.uk/dataset) ||
 Stirling Council|[URL](https://data.stirling.gov.uk/dataset)|CKAN|
-
+|||
 Aberdeenshire Council|[URL](https://www.aberdeenshire.gov.uk/online/open-data/)||
 East Ayrshire Council|[URL](https://www.east-ayrshire.gov.uk/CouncilAndGovernment/About-the-Council/Information-and-statistics/Open-Data.aspx)||
 East Renfrewshire Council|[URL](https://data.gov.uk/publisher/east-renfrewshire-council)||
@@ -24,11 +24,11 @@ Moray Council|[URL](http://www.moray.gov.uk/moray_standard/page_110140.html)||
 North Lanarkshire Council|[URL](https://data.gov.uk/search?q=%22North+Lanarkshire%22) ||
 Shetland Islands Council|[URL](https://www.shetland.gov.uk/information-rights/OpenData.asp)||
 South Ayrshire Council|[URL](https://www.south-ayrshire.gov.uk/opendata/)||
-
+|||
 Argyll and Bute Council|[URL](https://data-argyll-bute.opendata.arcgis.com/) |GIS|
 North Ayrshire Council|[URL](https://maps-north-ayrshire.opendata.arcgis.com)|GIS|
 Renfrewshire Council|[URL](http://data-ren.opendata.arcgis.com/search)|GIS|
-
+|||
 East Dunbartonshire Council|||No such data.
 East Lothian Council|||No such data.
 Falkirk Council|||No such data.

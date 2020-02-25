@@ -37,8 +37,8 @@ South Ayrshire Council|[URL](https://www.south-ayrshire.gov.uk/opendata/)||No Wa
 South Lanarkshire Council|||No Waste data.
 Stirling Council|[URL](https://data.stirling.gov.uk/dataset)|CKAN|1 dataset: Waste Management (3 resources).
 West Dunbartonshire Council|||No Waste data.
-Western Isles Council|||No Waste data.
 West Lothian Council|||No Waste data.
+Western Isles Council|||No Waste data.
 
 
 

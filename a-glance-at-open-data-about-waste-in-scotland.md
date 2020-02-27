@@ -6,8 +6,8 @@ Derived from Ian Watt's [Scottish Open Data List](https://github.com/watty62/SOD
 ## Observations
 
 * Very few _fine grained_ datasets about household/commerical waste collection (e.g. "tonnage of recyclable waste collected in postcode area X over time period T").
-* SEPA's aggregated data views are really informative but local authority is the finest level of granularity. 
-* No information about the _flow_ of waste processing (i.e. a directed graph that describes the flow of waste amounts from primary collection to final resting places). 
+* SEPA's aggregated data views are really informative but _local authority_ is the finest level of granularity. 
+* No information about the _flow_ of waste processing (e.g. a directed graph that describes the flows - compositions and tonnages - of waste bundles from primary collection points to final resting places). 
 
 ## 32 Local Authorities
 

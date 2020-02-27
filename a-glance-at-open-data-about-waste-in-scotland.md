@@ -3,6 +3,11 @@
 Compiled February 2020. 
 Derived from Ian Watt's [Scottish Open Data List](https://github.com/watty62/SOD).
 
+## Observations
+
+* Very few _fine grained_ datasets about household/commerical waste collection (e.g. "tonnage of recyclable waste collected in postcode area X over time period T").
+* SEPA's aggregated data views are really informative but local authority is the finest level of granularity. 
+* No information about the _flow_ of waste processing (i.e. a directed graph that describes the flow of waste amounts from primary collection to final resting places). 
 
 ## 32 Local Authorities
 
@@ -45,7 +50,7 @@ Western Isles Council|||No Waste data.
 
 Organisation|URL|Platform|Notes
 ---|---|---|---
-SEPA|[portal](https://www.sepa.org.uk/environment/waste/)||Many datasets: mostly aggregated data; some nice visualisations; not so machine readable.
+SEPA|[portal](https://www.sepa.org.uk/environment/waste/)||Many datasets: mostly aggregated data; human friendly visualisations; not so machine readable.
 
 
 

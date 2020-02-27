@@ -1,162 +1,52 @@
-# Data Commons Scotland: A scrapbook of prior work
+# Data Commons Scotland: A glance at Open Data about Waste in Scotland
+
+Compiled February 2020. 
+Derived from Ian Watt's [Scottish Open Data List](https://github.com/watty62/SOD).
 
 
-## Definitions and opinions
+## 32 Local Authorities
 
+Organisation|Open Data portal|Platform|Notes
+---|---|---|---
+Aberdeen City Council|[portal](http://data.aberdeencity.gov.uk)|CKAN|No Waste data.
+Aberdeenshire Council|[portal](https://www.aberdeenshire.gov.uk/online/open-data/)||2 datasets: Glass and textiles recycling points (1 resource); [Recycling centres](https://www.aberdeenshire.gov.uk/online/open-data/) (1 resource)
+Angus Council|[portal](http://opendata.angus.gov.uk)|CKAN|No Waste data.
+Argyll and Bute Council|[portal](https://data-argyll-bute.opendata.arcgis.com/) |GIS|No Waste data.
+Clackmannanshire Council| [portal](http://gis.clacksweb.org.uk)|CKAN|No Waste data.
+Dumfries and Galloway|[portal](https://usmart.io/#/org/dumgal/)|USMART|1 dataset: [Recycling Centres](https://usmart.io/#/org/dumgal/discovery/discovery-view-detail/a423ccc2-51e4-4a86-af72-649e3ef991c1) (no permanent direct URL).
+Dundee City Council|[portal](https://data.dundeecity.gov.uk/dataset)|CKAN|5 data sets: Dog Bins (1 resource); [Bin Sensor Returns](https://data.dundeecity.gov.uk/dataset/bin-sensor-returns) (5 resources); Solar Powered Compactor Bins (36 resources); [Recycling Point Locations](https://data.dundeecity.gov.uk/dataset/recycling-facility-locations) (5 resources); Public Litter Bins (1 resource).
+East Ayrshire Council|[portal](https://www.east-ayrshire.gov.uk/CouncilAndGovernment/About-the-Council/Information-and-statistics/Open-Data.aspx)||No Waste data.
+East Dunbartonshire Council|||No Waste data.
+East Lothian Council|||No Waste data.
+East Renfrewshire Council|[portal](https://data.gov.uk/publisher/east-renfrewshire-council)|CKAN|1 dataset: [Bin collection days](https://ckan.publishing.service.gov.uk/dataset/bin-collection-days) (4 resources).
+Edinburgh City Council| [portal](https://edinburghopendata.info)|CKAN|5 datasets: Communal Waste Collection assets February 2017 (1 resource); Fixed Penalty Notices (1 resource); Litter Bin Sensor project (3 resources); Litter Bins (17 resources); [Recycling Points](https://data.edinburghopendata.info/dataset/recycling-points) (1 resource).
+Falkirk Council|||No Waste data.
+Fife Council|||No Waste data.
+Glasgow City Council| [portal](https://data.glasgow.gov.uk)|CKAN|1 dataset: [Household Waste](https://data.glasgow.gov.uk/dataset/household-waste) (2 resources).
+Highland Council|||No Waste data.
+Inverclyde Council|||No Waste data.
+Midlothian Council|||No Waste data.
+Moray Council|[portal](http://www.moray.gov.uk/moray_standard/page_110140.html)||2 datasets: [Recycling Centres](http://www.moray.gov.uk/moray_standard/page_110140.html) (1 resource); Recycling Points (1 resource).
+North Ayrshire Council|[portal](https://maps-north-ayrshire.opendata.arcgis.com)|GIS|4 datasets: Litter Bins (1 resource); [Recycling Centres](https://maps-north-ayrshire.opendata.arcgis.com/datasets/recycling-centres) (1 resource); Recycling Points (1 resource); Dog Bins (1 resource).
+North Lanarkshire Council|[portal](https://data.gov.uk/search?q=%22North+Lanarkshire%22)|data.gov.uk|No Waste data.
+Orkney Islands Council|||No Waste data.
+Perth and Kinross Council|[portal](https://data.pkc.gov.uk/dataset) |CKAN|No Waste data.
+Renfrewshire Council|[portal](http://data-ren.opendata.arcgis.com/search)|GIS|
+Scottish Borders Council|||No Waste data.
+Shetland Islands Council|[portal](https://www.shetland.gov.uk/information-rights/OpenData.asp)||No Waste data.
+South Ayrshire Council|[portal](https://www.south-ayrshire.gov.uk/opendata/)||No Waste data.
+South Lanarkshire Council|||No Waste data.
+Stirling Council|[portal](https://data.stirling.gov.uk/dataset)|CKAN|1 dataset: [Waste Management](https://data.stirling.gov.uk/dataset/waste-management) (3 resources).
+West Dunbartonshire Council|||No Waste data.
+West Lothian Council|||No Waste data.
+Western Isles Council|||No Waste data.
 
-### Open Data
+## 1 Other
 
-* [Wikipedia: Open data](https://en.wikipedia.org/wiki/Open_data)
-    * "is the idea that some data should be freely available to everyone to use and republish as they wish, without restrictions from copyright, patents or other mechanisms of control"
-    * "the term 'open data' itself is recent, gaining popularity with the rise of the Internet and [...] especially, with the launch of open-data government initiatives"
-    * "Open data can also be Linked Data; when it is, it is Linked Open Data."
-* [Open Data Handbook: What is Open Data?](http://opendatahandbook.org/guide/en/what-is-open-data/)
-    * "Open data is data that can be freely used, re-used and redistributed by anyone - subject only, at most, to the requirement to attribute and sharealike."
-* [The World Bank: Open Data Essentials](http://opendatatoolkit.worldbank.org/en/essentials.html)
-    * "Data or content is open if anyone is free to use, re-use or redistribute it, subject at most to measures that preserve provenance and openness."
-    * Two dimensions: 
-      * "The data must be legally open, which means they must be placed in the public domain or under liberal terms of use with minimal restrictions"
-      * "The data must be technically open, which means they must be published in electronic formats that are machine readable and non-proprietary"
+Organisation|URL|Platform|Notes
+---|---|---|---
+SEPA|[portal](https://www.sepa.org.uk/environment/waste/)||Many datasets: mostly aggregated data; some nice visualisations; not so machine readable.
 
-
-## Case studies and reviews of installations
-
-* [Open Data activity of selected UK councils](http://www.nomoregrapes.com/wp-content/uploads/2016/03/nmg-council-opendata-research-20160304.pdf)
-    * "Backing of policy and commitment needs to be done first with open data releases. Events which encourage discussion and use of the data should be followed by promotion of any work done. This chain of actions then starts a circle of specific open data requests, releases, and use. Into a moving circle will come data programmers, and analysts, other professionals, and citizens that connect with the council and the professionals. Naturally, an authority's open data work will become celebrated further a eld by both internal sta  and external individuals/businesses involved."
-* [Ontology Engineering at Scale for Open City Data Sharing](https://www.slideshare.net/ocorcho/ontology-engineering-at-scale-for-open-city-data-sharing)
-    * "Poster boards" were early 'open data'!
-    * Believes that the definition and maintenance of ontologies is the crux.
-    * "Choose your datasets" sparingly; "annotate semantically so other can understand"; "produce your data in different formats"; "eat your own dog food"; 
-* [Wikipedia: Waste in the UK](https://en.wikipedia.org/wiki/Waste_in_the_United_Kingdom)
-     * "In Scotland in 1993, 14 million tons of waste was produced. 100,000 tons was toxic waste and 260,000 tons was controlled waste from other parts of Britain and abroad. 45% of the special waste was in liquid form and 18% was asbestos - radioactive waste was not included. Of the controlled waste, 48% came from the demolition of buildings, 22% from industry, 17% from households and 13% from business - only 3% were recycled. Ninety percent of controlled waste was buried in landfill sites and produced 2 million tons of methane gas. 1.5% was burned in incinerators and 1.5% were exported to be disposed of or recycled. There are 900 disposal sites in Scotland."
-
-
-## Instances
-
-* [data.gov.uk](data.gov.uk)
-    * "does not host datasets. Instead, you must first publish the dataset (or supporting document) on your organisation?s website or on GOV.UK. You can then add the dataset to data.gov.uk, which will display a description and a link to the dataset."
-* [Ian's list of Scottish Open Data instances](https://github.com/watty62/SOD)
-* [Ewan Klein's list of Scottish Open Data catalogues](http://okfnscot.github.io/open-data-scotland/)
-* [Stirling Council's open data portal](https://data.stirling.gov.uk/dataset)
-
-
-## Tools
-
-   * [Wikidata](https://www.wikidata.org)
-      * "Wikidata is a free and open knowledge base that can be read and edited by both humans and machines. Wikidata acts as central storage for the structured data of [...]"
-      * "Wikidata records not just statements, but also their sources, and connections to other databases."
-      * "Wikidata uses a Linked Open Data format to store data"
-      * [Linked Data](https://en.wikipedia.org/wiki/Linked_data)
-         * "Linked data may also be open data, in which case it is usually described as Linked Open Data"
-         * [RDF](https://en.wikipedia.org/wiki/Resource_Description_Framework)
-            * "Part of the vision of Linked Data is for the Internet to become a global database"
-   * [SPARQL query service](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/Wikidata_Query_Help)
-      * [Ian's plaques in Aberdeen blog](https://codethecity.org/2020/01/13/aberdeen-plaques-part-two/)
-   * [What is the difference between Wikidata and DBpedia?](https://www.quora.com/What-is-the-difference-between-Wikidata-and-DBpedia)
-      * DBpedia unlies the [BBC's Dynamic Semantic Publishing](https://www.bbc.co.uk/blogs/bbcinternet/2012/04/sports_dynamic_semantic.html)
-      * "Why blend logic with data on the web? [...] Machines need the description logic where the data is to be able to integrate it and tie the data silos together."
-      * "DBpedia is a fundamental part of the connective tissue of the contextual/semantic Web, a.k.a. the Linked Open Data cloud, a.k.a. the Web of Data. It brings Wikipedia and all the value of its crowdsourced updates to data description. Data description is essential to machine learning.  Machines are dumb, and they need to be told how to retrieve relevant data, process it and deliver it to the place where it's most relevant. Ontologies--descriptions of data domains--help with this kind of handholding."
-   * [CKAN](https://ckan.org/about/)
-      * "a tool for making open data websites. [...] helps you manage and publish collections of data"
-      * [Extensions](https://github.com/ckan/ckan/wiki/List-of-extensions)
-        * [harvest](https://github.com/ckan/ckanext-harvest/)
-        * [DCAT](https://github.com/ckan/ckanext-dcat)
-        * [jackan](http://opendatatrentino.github.io/jackan/)
-        * [ckan4j](https://extensions.ckan.org/extension/ckan4j/)
-   * [Prototype tools/models for digitally tracking waste](https://defradigital.blog.gov.uk/2019/05/13/smart-waste-tracking-challenge-are-we-any-closer-to-solutions/)
-   * [Socrata](https://www.tylertech.com/products/socrata)
-      * "Data-Driven Innovation for Government [...] puts data at the heart of every government program and revolutionizes internal data sharing"
-      * "Break down silos and encourage collaboration"
-      * "Transform data into insights with visualizations and performance measurements"
-* [Open Ownership: Identity & identifiers: what we?ve learned](https://www.openownership.org/news/identity-and-identifiers-what-weve-learned/)
-   * "the beneficial ownership standard needs to be able to identify legal entities and help users to identify natural persons"
-
-
-# Waste Data
-
-* What aspects of this our we interested in for the purpose of this project?
-   * Tracking waste end-to-end?
-      * Recording handovers; digital tags to help automate data input; classification and quantification.
-   * Publishing council waste collection information?
-      * ...in a more usable way; better route info; better waste classification info.
-* [Presentation about Vastum](https://defradigital.blog.gov.uk/2019/05/13/smart-waste-tracking-challenge-are-we-any-closer-to-solutions/)
-   * "at the moment we have only regulatory datasets that can't be matched to each other"
-   * no oversight of transfer notes so wste goes 'missing'
-* [The story of waste management in the UK](https://www.youtube.com/watch?v=-C6v_X_FtWI)
-   * Be in a better place for another _sea change_ in waste management a la the one brought about by the 1950s Clean Air Act which resulted in a change of the composition of the household bin ...half the weight but bulkier trash because of 1950s end-of-austerity and the rise of the self-service shop in which goods where packaged.
-
-## Opportunities
-
-* [Open Data Institute: Open standards and open APIs](https://theodi.org/topic/open-standards-and-open-apis/)
-    * "When open data is standardised and uses an open API, it's easier to read and access, creating opportunities for startups, researchers and communities to innovate with it."
-
-
-## Requirements
-
-* [Open Data Platform Requirements](https://www.odcamp.uk/open-data-platform-requirements/)
-   * "from deeply technical requirements to ways to help citizens find and use data relevant to them"
-   * "pull out information items that related to an issue of interest that were included in different data sets"
-   * "enthusiasm for forums and feedback"
-   * "demystifying the data"
-   * "adding contextual information to the data sets"
-   * e.g. "newspaper articles, that would explain why the data might matter", "signposts, such as colour-coding for data sets" 
-   * "providing a really big search box that works really well"
-   * "You need something really technical and you need something that looks nice. You don?t want something that?s so tough only a few people use it, but you don?t want it to look really nice but to have nothing behind it."
-
-* [GovEx Labs: Open Data Portal Requirements](https://labs.centerforgov.org/open-data/portal-requirements/)
-   * "sample requirements to help governments evaluate, develop (or procure), deploy, and launch an open data web site (portal)"
-   * 
-
-* [NYC Open Data: Policy and Technical Standards Manual](https://www1.nyc.gov/assets/doitt/downloads/pdf/nyc_open_data_tsm.pdf)
-   * Pushing openess: "All public data sets must be considered open unless they contain information designated as sensitive, private, or confidential as defined by [...]".
-
-
-* Requirements distilled into stand-alone features
-
-   * Associate a data set with a schema
-   * Validate uploads/against schema
-
-   * Timestamp rows
-   * Keep history
-
-   * Table view
-   * Form/page view focussing on an entity
-
-   * Link the data a la RDF
-   * Locally cache aspects of remote data
-
-   * Provenance and other metadata (perhaps as linked data)
-
-   * Alerts about updates
-   * Alerts about changes of interest
-
-   * Plot against time
-   * Plot on a map
-   * Display as an image grid
-
-   * Stats
-
-   * Use ML to look for correlations 
-
-   * Readable by all humans
-   * (Auth'd) community input
-
-   * Readable by machines because of the use of standard representations
-   * (Auth'd) updatable by machines
-
-   * Searchable: structure query languages
-
-   * Searchable: stylised language, textual
-   * Searchable: stylised language, audio
-
-   * Searchable: natural language, textual
-   * Searchable: natural language, audio
-
-   * Scalable WRT rows per table (or subject-attribute pairs)
-   * Scalable WRT table joining/cross linking
-   * Scalable WRT (hyper)linking to data in remote repos
-
-   * Snapshot-able for backups, copies, etc.
 
 
 

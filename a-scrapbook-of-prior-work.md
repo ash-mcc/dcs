@@ -39,6 +39,8 @@
 * [Ewan Klein's list of Scottish Open Data catalogues](http://okfnscot.github.io/open-data-scotland/)
 * [Stirling Council's open data portal](https://data.stirling.gov.uk/dataset)
 
+* [Urban Big Data Centre](http://ubdc.gla.ac.uk)
+
 
 ## Tools
 
@@ -56,6 +58,7 @@
       * DBpedia unlies the [BBC's Dynamic Semantic Publishing](https://www.bbc.co.uk/blogs/bbcinternet/2012/04/sports_dynamic_semantic.html)
       * "Why blend logic with data on the web? [...] Machines need the description logic where the data is to be able to integrate it and tie the data silos together."
       * "DBpedia is a fundamental part of the connective tissue of the contextual/semantic Web, a.k.a. the Linked Open Data cloud, a.k.a. the Web of Data. It brings Wikipedia and all the value of its crowdsourced updates to data description. Data description is essential to machine learning.  Machines are dumb, and they need to be told how to retrieve relevant data, process it and deliver it to the place where it's most relevant. Ontologies--descriptions of data domains--help with this kind of handholding."
+   * [What Happened to the Semantic Web](http://david.portnoy.us/category/semantic-web/) discusses problems with the "SemWeb", e.g. people prefer natural language framed queries (backed by ML) over SPARQL; SemWeb "too rigid to effectively keep up with today?s rate of data creation and structural evolution"; "ontological silos"; "lack of clear commercial benefits".
    * [CKAN](https://ckan.org/about/)
       * "a tool for making open data websites. [...] helps you manage and publish collections of data"
       * [Extensions](https://github.com/ckan/ckan/wiki/List-of-extensions)
@@ -84,6 +87,8 @@
    * no oversight of transfer notes so wste goes 'missing'
 * [The story of waste management in the UK](https://www.youtube.com/watch?v=-C6v_X_FtWI)
    * Be in a better place for another _sea change_ in waste management a la the one brought about by the 1950s Clean Air Act which resulted in a change of the composition of the household bin ...half the weight but bulkier trash because of 1950s end-of-austerity and the rise of the self-service shop in which goods where packaged.
+* [My Recycling Wales](https://myrecyclingwales.org.uk/) is a pretty site that provides information about how/where Welsh waste is processed. It gets its data from [Waste Data Flow](https://www.wastedataflow.org).
+
 
 ## Opportunities
 

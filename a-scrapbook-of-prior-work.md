@@ -29,16 +29,18 @@
     * "Choose your datasets" sparingly; "annotate semantically so other can understand"; "produce your data in different formats"; "eat your own dog food"; 
 * [Wikipedia: Waste in the UK](https://en.wikipedia.org/wiki/Waste_in_the_United_Kingdom)
      * "In Scotland in 1993, 14 million tons of waste was produced. 100,000 tons was toxic waste and 260,000 tons was controlled waste from other parts of Britain and abroad. 45% of the special waste was in liquid form and 18% was asbestos - radioactive waste was not included. Of the controlled waste, 48% came from the demolition of buildings, 22% from industry, 17% from households and 13% from business - only 3% were recycled. Ninety percent of controlled waste was buried in landfill sites and produced 2 million tons of methane gas. 1.5% was burned in incinerators and 1.5% were exported to be disposed of or recycled. There are 900 disposal sites in Scotland."
-
+* The Irish government's [Open Data Strategy for 2017-2022](https://data.gov.ie/sites/default/files/files/Final%20Strategy%20online%20version(1).pdf)
+    * Introduced by the "Minister of State with responsibility for Public Procurement, Open Government and eGovernment".
+    * Their [Open Data Technical Framework](https://data.gov.ie/pages/opendatatechnicalframework) starts with the need for a technical framework, before summarising the key considerations when publishing open data. In the main, it recommends: data formats; metadata schema; standards for respresenting values.
 
 ## Instances
 
 * [data.gov.uk](data.gov.uk)
     * "does not host datasets. Instead, you must first publish the dataset (or supporting document) on your organisation?s website or on GOV.UK. You can then add the dataset to data.gov.uk, which will display a description and a link to the dataset."
+* [data.gov.ie](https://data.gov.ie)
 * [Ian's list of Scottish Open Data instances](https://github.com/watty62/SOD)
 * [Ewan Klein's list of Scottish Open Data catalogues](http://okfnscot.github.io/open-data-scotland/)
 * [Stirling Council's open data portal](https://data.stirling.gov.uk/dataset)
-
 * [Urban Big Data Centre](http://ubdc.gla.ac.uk)
 
 

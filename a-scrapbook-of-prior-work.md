@@ -76,6 +76,10 @@
 * [Open Ownership: Identity & identifiers: what we?ve learned](https://www.openownership.org/news/identity-and-identifiers-what-weve-learned/)
    * "the beneficial ownership standard needs to be able to identify legal entities and help users to identify natural persons"
 
+# Additional tools
+
+* [Recommender systems](https://en.wikipedia.org/wiki/Recommender_system) ...based on: behaviours/choices of similar users; objects with similar attributes; machine inferencing.
+* [A Git for data?](https://opendata.stackexchange.com/questions/748/is-there-a-git-for-data#752) is a _discussion_ about using something as solid, accessible and simple as Git to store open data. Some of Git's shortcommings WRT changing, for example, CSV columns might be worked around by using, say, YAML as the data format. Its unsuitability for huge datasets is more intrinsic. 
 
 # Waste Data
 

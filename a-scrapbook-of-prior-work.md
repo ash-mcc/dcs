@@ -32,6 +32,9 @@
 * The Irish government's [Open Data Strategy for 2017-2022](https://data.gov.ie/sites/default/files/files/Final%20Strategy%20online%20version(1).pdf)
     * Introduced by the "Minister of State with responsibility for Public Procurement, Open Government and eGovernment".
     * Their [Open Data Technical Framework](https://data.gov.ie/pages/opendatatechnicalframework) starts with the need for a technical framework, before summarising the key considerations when publishing open data. In the main, it recommends: data formats; metadata schema; standards for respresenting values.
+* [WikiMedia - RFC - How to deal with open datasets](https://meta.wikimedia.org/wiki/Requests_for_comment/How_to_deal_with_open_datasets)
+    * "on Wikidata contributors and data coexist to create semantic structures that can be queried in several ways. Adding too much data, might make data curation impossible"
+    * "a few possibilities, ours could e.g. be editable/correctable, discussable on wiki (i.e. datasets will have talk pages), easily integrate into visualisation plugins for Wikipedia articles (see the planned Vega Visualisation Plugin), accept and archive live feeds, plus hooks into Wikidata's semantic information might make sets of datasets more useful/powerful"
 
 ## Instances
 
@@ -42,6 +45,7 @@
 * [Ewan Klein's list of Scottish Open Data catalogues](http://okfnscot.github.io/open-data-scotland/)
 * [Stirling Council's open data portal](https://data.stirling.gov.uk/dataset)
 * [Urban Big Data Centre](http://ubdc.gla.ac.uk)
+* Iceland's [COVID-19 data site](https://www.covid.is/data) is nice.
 
 
 ## Tools
@@ -68,17 +72,28 @@
         * [DCAT](https://github.com/ckan/ckanext-dcat)
         * [jackan](http://opendatatrentino.github.io/jackan/)
         * [ckan4j](https://extensions.ckan.org/extension/ckan4j/)
+      * [Datopian](http://tech.datopian.com/) - a company used by Stirling Council and the Data Cluster project, that has expertise in hosting and customising CKAN based systems. 
+        * It overviews its "Next Gen" version of CKAN.
+        * It is the company behind [Datahub](https://datahub.io/).
    * [Prototype tools/models for digitally tracking waste](https://defradigital.blog.gov.uk/2019/05/13/smart-waste-tracking-challenge-are-we-any-closer-to-solutions/)
    * [Socrata](https://www.tylertech.com/products/socrata)
       * "Data-Driven Innovation for Government [...] puts data at the heart of every government program and revolutionizes internal data sharing"
       * "Break down silos and encourage collaboration"
       * "Transform data into insights with visualizations and performance measurements"
+   * [https://app.gistapp.com/visualizations](Gist Sofware)
+      * "Share analysis by embedding visualizations into reports and articles."
+   * [Neo4j graph gists](https://neo4j.com/graphgists/)
 * [Open Ownership: Identity & identifiers: what we?ve learned](https://www.openownership.org/news/identity-and-identifiers-what-weve-learned/)
    * "the beneficial ownership standard needs to be able to identify legal entities and help users to identify natural persons"
+* [Idra](https://www.slideshare.net/FI-WARE/fiware-global-summit-idra-a-solution-for-open-data-interoperability)
+   * "Idra is a web application able to federate existing Open Data Management Systems (ODMS) based on different technologies providing a unique access point to search and discover open datasets coming from heterogeneous sources. Idra uniforms representation of collected open datasets, thanks to the adoption of international standards (DCAT-AP) and provides a set of RESTful APIs to be used by third party applications.
+
+     Idra supports natively ODMS based on CKAN, DKAN, Socrata, Orion Context Broker (NGSI v2) and many other technologies: Idra provides also a set of APIs to federate ODMS not natively supported. In addition, it is possible to federate generic open data portals, that don't expose an API, using the web scraping functionality or providing a dump file of the datasets in DCAT-AP format. Moreover Idra provides a SPARQL endpoint in order to perform queries on 5 stars RDF linked open data collected from federated ODMS and allows to easily create charts based on federated open datasets."
 
 # Additional tools
 
-* [Recommender systems](https://en.wikipedia.org/wiki/Recommender_system) ...based on: behaviours/choices of similar users; objects with similar attributes; machine inferencing.
+* [Recommender systems](https://en.wikipedia.org/wiki/Recommender_system) ...based on: behaviours/choices of similar users ("collaberative filtering"); objects with similar attributes ("content-based fitering"); machine inferencing.
+   * [Building one in Python](https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python/)
 * [A Git for data?](https://opendata.stackexchange.com/questions/748/is-there-a-git-for-data#752) is a _discussion_ about using something as solid, accessible and simple as Git to store open data. Some of Git's shortcommings WRT changing, for example, CSV columns might be worked around by using, say, YAML as the data format. Its unsuitability for huge datasets is more intrinsic. 
 
 # Waste Data
@@ -168,6 +183,7 @@
    * Scalable WRT (hyper)linking to data in remote repos
 
    * Snapshot-able for backups, copies, etc.
+
 
 
 

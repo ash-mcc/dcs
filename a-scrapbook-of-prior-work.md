@@ -56,6 +56,7 @@
       * "Wikidata uses a Linked Open Data format to store data"
       * [Linked Data](https://en.wikipedia.org/wiki/Linked_data)
          * "Linked data may also be open data, in which case it is usually described as Linked Open Data"
+            * [Some ideas](https://www.cs.toronto.edu/~oktie/slides/publishing-relational-databases-as-linked-data.pdf) for converting tabular data into linked data. 
          * [RDF](https://en.wikipedia.org/wiki/Resource_Description_Framework)
             * "Part of the vision of Linked Data is for the Internet to become a global database"
    * [SPARQL query service](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/Wikidata_Query_Help)

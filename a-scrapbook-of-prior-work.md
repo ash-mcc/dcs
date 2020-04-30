@@ -45,8 +45,9 @@
 * [Ewan Klein's list of Scottish Open Data catalogues](http://okfnscot.github.io/open-data-scotland/)
 * [Stirling Council's open data portal](https://data.stirling.gov.uk/dataset)
 * [Urban Big Data Centre](http://ubdc.gla.ac.uk)
-* Iceland's [COVID-19 data site](https://www.covid.is/data) is nice.
-
+* Iceland's [COVID-19 data site](https://www.covid.is/data) is user friendly.
+* [statistics.gov.scot](https://statistics.gov.scot) makes many useful datasets available as linked open data. Its datasets include some (e.g. Household Waste and Population) that are core to providing data about waste in Scotland.
+* [This RDF based platform](https://semantic.eea.europa.eu/) of the European Environment Agency, seems very impressive.
 
 ## Tools
 
@@ -57,10 +58,12 @@
       * [Linked Data](https://en.wikipedia.org/wiki/Linked_data)
          * "Linked data may also be open data, in which case it is usually described as Linked Open Data"
             * [Some ideas](https://www.cs.toronto.edu/~oktie/slides/publishing-relational-databases-as-linked-data.pdf) for converting tabular data into linked data. 
+            * [Structure-First Data Modeling The Losing Battle of Perfect Descriptions](https://www.semanticarts.com/structure-first-data-modeling-the-losing-battle-of-perfect-descriptions/) that calls triplestore-type databases "meaning first" - but these too have a lot of "structure first". 
          * [RDF](https://en.wikipedia.org/wiki/Resource_Description_Framework)
             * "Part of the vision of Linked Data is for the Internet to become a global database"
    * [SPARQL query service](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/Wikidata_Query_Help)
       * [Ian's plaques in Aberdeen blog](https://codethecity.org/2020/01/13/aberdeen-plaques-part-two/)
+      * [SQARQL Cheatsheet](http://www.iro.umontreal.ca/~lapalme/ift6281/sparql-1_1-cheat-sheet.pdf)
    * [What is the difference between Wikidata and DBpedia?](https://www.quora.com/What-is-the-difference-between-Wikidata-and-DBpedia)
       * DBpedia unlies the [BBC's Dynamic Semantic Publishing](https://www.bbc.co.uk/blogs/bbcinternet/2012/04/sports_dynamic_semantic.html)
       * "Why blend logic with data on the web? [...] Machines need the description logic where the data is to be able to integrate it and tie the data silos together."
@@ -110,12 +113,16 @@
 * [The story of waste management in the UK](https://www.youtube.com/watch?v=-C6v_X_FtWI)
    * Be in a better place for another _sea change_ in waste management a la the one brought about by the 1950s Clean Air Act which resulted in a change of the composition of the household bin ...half the weight but bulkier trash because of 1950s end-of-austerity and the rise of the self-service shop in which goods where packaged.
 * [My Recycling Wales](https://myrecyclingwales.org.uk/) is a pretty site that provides information about how/where Welsh waste is processed. It gets its data from [Waste Data Flow](https://www.wastedataflow.org).
+* [This article](https://resource.co/article/uk-local-authority-league-table-201819-right-track) is from a magazine called _resource.co_ that contains nice data-backed articles about waste. 
 
 
 ## Opportunities
 
 * [Open Data Institute: Open standards and open APIs](https://theodi.org/topic/open-standards-and-open-apis/)
     * "When open data is standardised and uses an open API, it's easier to read and access, creating opportunities for startups, researchers and communities to innovate with it."
+* The 9 year old [Christie Commission Report](https://www.gov.scot/publications/commission-future-delivery-public-services/) has messages in it that back our DCS participatory design and open data approaches:
+    * "ensure that our public services are built around people and communities, their needs, aspirations, capacities and skills, and work to build up their autonomy and resilience"
+    * "improve transparency and consistency"
 
 
 ## Requirements

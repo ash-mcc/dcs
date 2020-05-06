@@ -59,6 +59,13 @@
          * "Linked data may also be open data, in which case it is usually described as Linked Open Data"
             * [Some ideas](https://www.cs.toronto.edu/~oktie/slides/publishing-relational-databases-as-linked-data.pdf) for converting tabular data into linked data. 
             * [Structure-First Data Modeling The Losing Battle of Perfect Descriptions](https://www.semanticarts.com/structure-first-data-modeling-the-losing-battle-of-perfect-descriptions/) that calls triplestore-type databases "meaning first" - but these too have a lot of "structure first". 
+            * [The RDF Data Cube Vocabulary](https://www.w3.org/TR/vocab-data-cube/) as used by statistics.gov.scot .
+            * [Challenges on Developing Tools for Exploiting Linked Open Data Cubes](https://pdfs.semanticscholar.org/f057/e02b0a936e09bbea1cc58b26772fe52cf7a7.pdf) says:
+              * value from open data cubes lies in how easy they are to combine and analyse at the web scale
+              * adoption of the RDF data cube vocabulary helps but there is still room for ambiguity, silo-ed concepts and differences in approach
+              * end users (and their tools) still like to consume easier representations.
+              * Related:
+            * [OpenCube Project and OpenCube Toolkit: slides and recordings](https://lists.w3.org/Archives/Public/public-lod/2015Oct/0016.html) 
          * [RDF](https://en.wikipedia.org/wiki/Resource_Description_Framework)
             * "Part of the vision of Linked Data is for the Internet to become a global database"
    * [SPARQL query service](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/Wikidata_Query_Help)
@@ -93,6 +100,10 @@
    * "Idra is a web application able to federate existing Open Data Management Systems (ODMS) based on different technologies providing a unique access point to search and discover open datasets coming from heterogeneous sources. Idra uniforms representation of collected open datasets, thanks to the adoption of international standards (DCAT-AP) and provides a set of RESTful APIs to be used by third party applications.
 
      Idra supports natively ODMS based on CKAN, DKAN, Socrata, Orion Context Broker (NGSI v2) and many other technologies: Idra provides also a set of APIs to federate ODMS not natively supported. In addition, it is possible to federate generic open data portals, that don't expose an API, using the web scraping functionality or providing a dump file of the datasets in DCAT-AP format. Moreover Idra provides a SPARQL endpoint in order to perform queries on 5 stars RDF linked open data collected from federated ODMS and allows to easily create charts based on federated open datasets."
+   * [Google's public data explorer](https://www.google.com/publicdata/explore?ds=ltjib1m1uf3pf_&ctype=l&met_y=waste_t1a#!ctype=l&strail=false&bcs=d&nselm=h&met_y=waste_t1a&scale_y=lin&ind_y=false&rdim=country_group&idim=country_group:oecd:non-oecd&idim=country:GBR:CHE:CHN:USA&ifdim=country_group&hl=en_US&dl=en_US&ind=false)
+   * [Tidy Data format](http://vita.had.co.nz/papers/tidy-data.pdf)
+   * [OpenCube Toolkit](http://opencube-toolkit.eu/)
+   * Swirrl's [table2qb](https://github.com/Swirrl/table2qb)
 
 # Additional tools
 
